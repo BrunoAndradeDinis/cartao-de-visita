@@ -8,10 +8,10 @@ forma mais autêntica e expressando o primeiro passo de minha
 evolução na carreira de Frontend
 
 ## 📱Telinha
-Web:
-
-Mobile:
-
+### Web:
+[<img src="./images/AnimaçãoWeb.gif" alt="gif de tela web">](https://brunoandradedinis.github.io/cartao-de-visita/)
+### Mobile:
+[<img src="./images/AnimaçãoMobile.gif" alt="gif de tela mobile">](https://brunoandradedinis.github.io/cartao-de-visita/)
 ## 🔧 Tecnologias utilizadas
 Através do VS Code finalizei o projeto com HTML e CSS.
 
